@@ -51,9 +51,6 @@
   - 如果只是普通担心，请备份：`SYSTEMAX Software Development\SAIv2\settings\custool`
   - 至少备份：`SYSTEMAX Software Development\SAIv2\settings\custool\nrm`
 
-- **图标设置**：
-  - 确保 `icon.ico` 文件与 `exe` 文件在同一目录下，以便正确显示图标。
-
 ## 依赖
 
 - Python 3.x
