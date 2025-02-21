@@ -67,6 +67,6 @@ pyinstaller --onefile --windowed --icon=path/to/icon.ico your_script.py
 
 
 
-## 许可证
+## 特别提示
 
-MIT License
+禁止将本软件进行二次贩卖。
